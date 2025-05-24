@@ -1,0 +1,56 @@
+{
+    "bot": {
+        "token": "BOT_TOKEN",
+        "clientId": "BOT_ID",
+        "prefix": "PREFIX"
+    },
+    "users": [
+        {
+            "token": "USER_TOKEN",
+            "id": "USER_ID"
+        },
+        {
+            "token": "USER_TOKEN",
+            "id": "USER_ID"
+        },
+        {
+            "token": "USER_TOKEN",
+            "id": "USER_ID"
+        },
+        {
+            "token": "USER_TOKEN",
+            "id": "USER_ID"
+        },
+        {
+            "token": "USER_TOKEN",
+            "id": "USER_ID"
+        },
+        {
+            "token": "USER_TOKEN",
+            "id": "USER_ID"
+        },
+        {
+            "token": "USER_TOKEN",
+            "id": "USER_ID"
+        },
+        {
+            "token": "USER_TOKEN",
+            "id": "USER_ID"
+        },
+        {
+            "token": "USER_TOKEN",
+            "id": "USER_ID"
+        },
+        {
+            "token": "USER_TOKEN",
+            "id": "USER_ID"
+        },
+        {
+            "token": "USER_TOKEN",
+            "id": "USER_ID"
+        }
+    ],
+    "guildId": "SUNUCU_ID",
+    "voiceChannelId": "SES_KANALI_ID",
+    "admins": ["KULLANICI_ADMIN_ID", "KULLANICI_ADMIN_ID"]
+} 
